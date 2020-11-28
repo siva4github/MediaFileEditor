@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W8cfa8KIg8ULyPh45kF+Bt9Z/ZnIHp4YhsiRzIU9t0WzRzN+u4jUVK5K+qEXNJzLV+W9pJp/1dWW/EGYr1yjwg==",
+  "success": true,
+  "projectFilePath": "D:\\Siva\\Personal\\Work\\Media File Editor\\MediaFileEditor\\MediaFileEditor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\salamalakala\\.nuget\\packages\\taglibsharp\\2.2.0\\taglibsharp.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
