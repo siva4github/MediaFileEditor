@@ -1,20 +1,20 @@
 ﻿MediaFileEditor
-
+1.0.0.0
 
 winexe
 C#
 .cs
-D:\Siva\Personal\Work\Media File Editor\MediaFileEditor\obj\Debug\netcoreapp3.1\
+d:\Siva\Personal\Work\Media File Editor\MediaFileEditor\obj\Debug\netcoreapp3.1\
 MediaFileEditor
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-D:\Siva\Personal\Work\Media File Editor\MediaFileEditor\App.xaml
-11151548125
+d:\Siva\Personal\Work\Media File Editor\MediaFileEditor\App.xaml
+1219584333
 
-3-917710711
-193-97097021
+5-2143428166
+193358800322
 MainWindow.xaml;
 
-False
+True
 
