@@ -30,6 +30,7 @@ speed-measure-plugin*.json
 !.vscode/launch.json
 !.vscode/extensions.json
 .history/*
+.vs/
 
 # misc
 /.sass-cache
@@ -44,3 +45,14 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# Build results
+[Db]ebug/
+[Db]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
